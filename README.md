@@ -8,6 +8,3 @@ Você pode entrar em contato comigo pelo o meu Email constitucional
  >000010778609363sp@al.educacao.sp.gov.br
 colocarei um link para o meu perfil do Alura aonde tem os cursos que eu fiz
  >![](https://cursos.alura.com.br/user/00001077860936SP)
- >![[IAN HENRIQUE MENDES FURUÉ - Unidade JavaScript na Web_ armazenando dados no navegador - Alura.pdf](https://github.com/user-attachments/files/16554249/IAN.HENRIQUE.MENDES.FURUE.-.Unidade.JavaScript.na.Web_.armazenando.dados.no.navegador.-.Alura.pdf)
-]()
->
